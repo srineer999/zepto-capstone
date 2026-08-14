@@ -68,3 +68,7 @@ Requests and BeautifulSoup are used for web scraping.
 Pandas is used for data processing and SQL result analysis.
 SQLite is used because it is lightweight and does not require
 an external database server.
+
+## Status
+
+Data scraping, cleaning, SQLite database creation and SQL analysis completed.
