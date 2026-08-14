@@ -72,3 +72,8 @@ an external database server.
 ## Status
 
 Data scraping, cleaning, SQLite database creation and SQL analysis completed.
+
+## Testing
+
+The pipeline was executed successfully and produced 71 book records.
+The SQL queries and Pandas merge operations completed successfully.
